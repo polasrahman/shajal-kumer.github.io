@@ -1,0 +1,9 @@
+/*style switcher*/
+
+body{
+	background: #16a085;
+	transition: .3s
+}
+h1 {
+	color: #ef476f
+}
